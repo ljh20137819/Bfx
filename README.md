@@ -176,25 +176,8 @@ Whitespace is allowed between the number and its instruction.
 
 ```bfx
 
-72\.
-
-101\.
-
-108\.
-
-108\.
-
-111\.
-
-32\.
-
-66\.
-
-70\.
-
-88\.
-
-33\.
+9+ 8* . 9+ 9+ 9+ 2+ . 7+ . . 3+ . > 4+ 8* .
+ > 9+ 9* 6+ . 9+ 9+ 6+ . 3+ . 6- . 8- . > 3+ 9* 6+ .
 
 ```
 
@@ -206,7 +189,7 @@ Output:
 
 ```text
 
-Hello BFX!
+Hello world!
 
 ```
 
